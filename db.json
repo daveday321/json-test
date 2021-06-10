@@ -1,5 +1,12 @@
 {
   "items": [
-    { "PersonId": 10, "PersonNumber": "98765" }
+    { "PersonId": 10,
+      "PersonNumber": "98765",
+      "phones": [
+        { "PhoneId": 15, 
+          "PhoneType": "Work"
+        }
+      ]
+    }
   ]
 }
