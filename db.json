@@ -7,6 +7,14 @@
         { "PhoneId": 20, "PhoneType": "Home", "PhoneNumber":"987654"},
         { "PhoneId": 25, "PhoneType": "Mobile", "PhoneNumber":"232323"}
       ]
+    },
+    { "PersonId": 20,
+      "PersonNumber": "87654",
+      "phones": [
+        { "PhoneId": 55, "PhoneType": "Work", "PhoneNumber":"43434343"},
+        { "PhoneId": 65, "PhoneType": "Home", "PhoneNumber":"56565656"},
+        { "PhoneId": 75, "PhoneType": "Mobile", "PhoneNumber":"78787878"}
+      ]
     }
   ]
 }
