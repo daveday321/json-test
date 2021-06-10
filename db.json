@@ -4,8 +4,8 @@
       "PersonNumber": "98765",
       "phones": [
         { "PhoneId": 15, "PhoneType": "Work", "PhoneNumber":"1234567"},
-        { "PhoneId": 20 "PhoneType": "Home", "PhoneNumber":"987654"},
-        { "PhoneId": 20 "PhoneType": "Mobile", "PhoneNumber":"232323"}
+        { "PhoneId": 20, "PhoneType": "Home", "PhoneNumber":"987654"},
+        { "PhoneId": 20, "PhoneType": "Mobile", "PhoneNumber":"232323"}
       ]
     }
   ]
